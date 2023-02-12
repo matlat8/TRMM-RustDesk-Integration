@@ -76,3 +76,13 @@ Name: RustDesk- Get ID<br/>
 Select "Collector Task"<br/>
 Select "Save all output"<br/>
 Set Alert Severity "Informational
+
+Action Type: Script</br>
+Then select "Rustdesk- Install" script. Change the timeout time to 600 seconds (5 minutes)
+
+Ensure to select the + sign to add the action to the task
+
+For the schedule, run any schedule you may please. I have mine run nightly. Sometimes I will need to run manually throughout the day but this is not common. **Select "Run task ASAP after a schedule start is missed"**
+
+
+

@@ -84,5 +84,5 @@ Ensure to select the + sign to add the action to the task
 
 For the schedule, run any schedule you may please. I have mine run nightly. Sometimes I will need to run manually throughout the day but this is not common. **Select "Run task ASAP after a schedule start is missed"**
 
-
-
+**9/12/23*
+7 months later and I realized I never finished these docs. I'll finish it up shortly.
